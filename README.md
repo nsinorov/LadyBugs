@@ -10,4 +10,4 @@ After that, if the same ladybug needs to fly to its right passing 1 index (2 rig
 
 ![1](https://user-images.githubusercontent.com/45227327/194150215-618231ff-5ad1-490b-8097-d59b40917f1d.PNG)
 
-
+If we receive an initial index that does not contain a ladybug, **nothing happens**. If you are given a ladybug index that is **outside the field, nothing** happens. In the end, **print all cells** of the field **separated** by **blank spaces**. For each cell that has a ladybug in it print '1' and for each empty cell print '0'. The output of the example above should be "0 1 0".
