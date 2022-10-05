@@ -7,3 +7,7 @@ A movement description **command** looks like this: "0 right 1". This means that
 For example, you are given a **field of size 3**, where there are ladybugs on indexes **0 and 1**. If the ladybug **on index 0 needs to fly to its right by the length of 1** (0 right 1), it will attempt to **land on index 1** but as there is **another ladybug** there, it will continue further to the right passing 1 index in length, landing on **index 2**. 
 
 After that, if the same ladybug needs to fly to its right passing 1 index (2 right 1), it will land somewhere **outside** of the field, so it flies **away**:
+
+![1](https://user-images.githubusercontent.com/45227327/194150215-618231ff-5ad1-490b-8097-d59b40917f1d.PNG)
+
+
