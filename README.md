@@ -23,4 +23,7 @@ If we receive an initial index that does not contain a ladybug, **nothing happen
 	If a cell has a ladybug in it, print '1'.
     If a cell is empty, print '0'.
 
+## Examples: 
+
+![2](https://user-images.githubusercontent.com/45227327/194150873-d7de4547-e5a7-4737-a8ac-156395e04184.PNG)
 
